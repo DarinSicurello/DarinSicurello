@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DarinSicurello
+- 👀 I’m interested in learning code
+- 🌱 I’m currently learning Java, Python SQL and Spring
+- 💞️ I’m looking to collaborate on working backend coding with multimedia files and OPEN CV. 
+- 📫 How to reach me email
+- ⚡ Fun fact: ...Just Fun!
